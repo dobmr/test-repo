@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 penis lol
+=======
+skdfjkds
+
+untracked changes whaat
+>>>>>>> 315234da29ee0c3a6d2e67f442c615714c0fcece
